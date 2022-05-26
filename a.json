@@ -1,0 +1,39 @@
+{
+    "Chapters": [
+      {
+        "id": 1,
+        "value": "Chapter 1",
+        "status": true
+      },
+      {
+        "id": 2,
+        "value": "Chapter 2",
+        "status": true
+      },
+      {
+        "id": 3,
+        "value": "Chapter 3",
+        "status": true
+      },
+      {
+        "id": 4,
+        "value": "Chapter 4",
+        "status": true
+      },
+      {
+        "id": 5,
+        "value": "Chapter 5",
+        "status": true
+      },
+      {
+        "value": "Chapter 6",
+        "status": false,
+        "id": 7
+      },
+      {
+        "value": "Chapter 7",
+        "status": false,
+        "id": 8
+      }
+    ]
+  }
